@@ -24,5 +24,4 @@ int main(){
     return 0;
 }
 
-In this particular example we use function find_file_path("header.h", "/home") from our static librry to find the path to file with name header.h
-inside the home directory with the path /home.
+In this particular example we use function find_file_path("header.h", "/home") from our static libray to find the path to a file with name header.h inside the home directory with the path /home.
